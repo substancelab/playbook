@@ -2,12 +2,17 @@
 
 ## Weekly structure
 
-We're a consultancy; doing client work is our primary focus. However, we're also geeks, and playing/experimenting/building is what we thrive on. This means we work 4 days of the week on client work, while the last day (typically Friday) is for geek days.
+We're a consultancy; doing client work is our primary focus.
 
-If a week has less than five days due to personal time, vacations, holidays, sick leave, the geek day for that week is skipped.
+We schedule projects on a daily basis so we can focus on one project each day, not having to context switch between multiple projects. If possible, we’ll schedule multiple, successive days for the same project.
 
+We start each week with a team-wide status meeting where we take a look at the schedule for the week and everybody is kept up to date on new leads and sales and general announcements.
 
 ### Geek days
+
+We’re geeks and we thrive on playing, experimenting and building. This means we work 4 days of the week on client work, while the last day (typically Friday) is for geek days.
+
+If a week has less than five days due to personal time, vacations, holidays, sick leave, the geek day for that week is skipped.
 
 Geek days should be used for stuff that is somewhat related to the business or to self improvement. This could be
 
