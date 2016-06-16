@@ -33,6 +33,22 @@ Every so often we'll use an investment day to build something, anything. The rul
 
 ## Workflow
 
+### Features
+
+Grab the most important, ready story from the project management tool (GitHub, Waffle, whatever your project uses). Assign it to yourself and…
+
+    $ git checkout master
+    $ git pull
+    $ git checkout --branch ISSUE_NUMBER-ISSUE_DESCRIPTION
+
+… make your changes and commit each change in small, atomic commits. When done …
+
+    $ git pull
+    $ git rebase —interactive master
+    $ git push --set-upstream origin
+
+Create a pull request on GitHub.
+
 ### Bugfixes
 
     $ git checkout master
