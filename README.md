@@ -28,7 +28,7 @@ Geek days should be used for stuff that is somewhat related to the business or t
 
 ### Single Day Products
 
-Every so often we'll use an investment day to build something, anything. The rule: It must be built and launched in a single day. Planning it before that day is acceptable, though. We keep a list of [[Single Day Product Ideas]] where we has out the ideas.
+Every so often we'll use an investment day to build something, anything. The rule: It must be built and launched in a single day. Planning it beforehand is acceptable, though, and probably a good idea. We keep a list of [Single Day Product Ideas](https://github.com/substancelab/ideas/issues) where we hash out ideas.
 
 
 ## Workflow
