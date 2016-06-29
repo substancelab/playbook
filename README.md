@@ -1,5 +1,13 @@
 # Substance Lab Playbook
 
+Hi!
+
+We are Substance Lab. We craft awesome web software for picky customers.
+
+This is our playbook. It describes how we work, and how we make our customers and their projects successful.
+
+We have decided to open this with the world because we believe in sharing. If you like what you see and especially if you use any of the ideas described here, feel free to let us know.
+
 ## Weekly structure
 
 We're a consultancy; doing client work is our primary focus.
