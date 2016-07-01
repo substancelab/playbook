@@ -24,7 +24,7 @@ If a week has less than five days due to personal time, vacations, holidays, sic
 
 Geek days should be used for stuff that is somewhat related to the business or to self improvement. This could be
 
-* Contributing to an open source project
+* Contributing to an open source project (you can find contribution suggestions on [Code Triage](https://www.codetriage.com/))
 * Creating an open source project
 * Writing a blog post
 * Learning a new technology
