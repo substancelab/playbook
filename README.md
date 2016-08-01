@@ -41,7 +41,31 @@ Every so often we'll use an investment day to build something, anything. The rul
 
 ## Workflow
 
-### Features
+### master is always deployable
+
+The master branch is our main branch. It is always working and deployable so we can confidently base future work on it.
+
+### Branches
+
+Don’t commit directly to master. Create a branch for whatever you’re doing, make your changes and commits on that branch.
+
+### Run all tests on the branch
+
+When making changes make sure you run all the tests in the test suite, not just the ones you think you might have impacted.
+
+### Run tests on pushes
+
+The full test suite should be run on CI whenever changes are pushed to remote branches.
+
+### Perform code reviews before merging to master
+
+When your changes are ready to be reviewed, create a pull request for the branch.
+
+### Commit messages tell intent
+
+Explaining what you did is nice, explaining why you did it is even nicer. It’s even more useful if you explain why you did it over other options.
+
+### Example: Building a feature
 
 Grab the most important, ready story from the project management tool (GitHub, Waffle, whatever your project uses). Assign it to yourself and…
 
@@ -57,7 +81,7 @@ Grab the most important, ready story from the project management tool (GitHub, W
 
 Create a pull request on GitHub.
 
-### Bugfixes
+### Example: Fixing a bug
 
     $ git checkout master
     $ git pull
