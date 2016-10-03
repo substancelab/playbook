@@ -112,7 +112,7 @@ We generally write CSS using the Sass syntax. We strive to adhere to the guideli
 
 A few guidelines:
 
-* Colors are always hex, unless we need the alpha channel, in case rgba is used.
+* Colors are always 6-digit, lowercase hex (ie `#abcdef`), unless we need the alpha channel, in case rgba is used.
 * Rules, selectors are placed in alphabetical order as much as possible.
 * Place used mixins at the top to make it possible to overwrite their values.
 
