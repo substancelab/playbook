@@ -65,6 +65,16 @@ When your changes are ready to be reviewed, create a pull request for the branch
 
 Explaining what you did is nice, explaining why you did it is even nicer. It’s even more useful if you explain why you did it over other options.
 
+See [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) for an overview of how to write (and why) good commit messages. In summary:
+
+1. Separate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line
+6. Wrap the body at 72 characters
+7. Use the body to explain what and why vs. how
+
 ### Example: Building a feature
 
 Grab the most important, ready story from the project management tool (GitHub, Waffle, whatever your project uses). Assign it to yourself and…
