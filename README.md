@@ -136,3 +136,7 @@ New customers are tracked on our Sales board in Trello.
 4. Estimate
 5. Proposal sent
 6. Won/Lost
+
+## Yearly charitable donation
+
+At the beginning of each year, when the results from the year prior are done, we donate 1% of the net result to a given charity. The charity is chosen each year by all of us based on suggestions and votes from all employees.
