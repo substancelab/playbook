@@ -139,4 +139,4 @@ New customers are tracked on our Sales board in Trello.
 
 ## Yearly charitable donation
 
-At the beginning of each year, when the results from the year prior are done, we donate 1% of the net result to a given charity. The charity is chosen each year by all of us based on suggestions and votes from all employees.
+At the beginning of each year, when the results from the year prior are done, we donate 10% of the yearly result to a given charity. The charity is chosen each year by all of us based on suggestions and votes from all employees.
