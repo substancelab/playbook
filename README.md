@@ -59,7 +59,7 @@ The full test suite should be run on CI whenever changes are pushed to remote br
 
 ### Perform code reviews before merging to master
 
-When your changes are ready to be reviewed, create a pull request for the branch.
+When your changes are ready to be reviewed, create a pull request for the branch. When your pull request is complete ask for reviews from the other members of your team by using GitHubs "Request review" feature or GitLabs "Assign approver".
 
 ### Commit messages tell intent
 
