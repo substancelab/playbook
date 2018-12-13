@@ -61,6 +61,14 @@ The full test suite should be run on CI whenever changes are pushed to remote br
 
 When your changes are ready to be reviewed, create a pull request for the branch. When your pull request is complete ask for reviews from the other members of your team by using GitHubs "Request review" feature or GitLabs "Assign approver".
 
+### Keep commits focused and complete
+
+See [The Anatomy of a Good Commit](https://mentalized.net/journal/2018/12/12/anatomy-of-a-good-commit/) for guidelines of how and why to create good commits.
+
+* If you feel the need to put "and" in your commit message, the commit is probably too big.
+* If you find it difficult describing what your commit does, it's probably too big.
+* If you find it difficult describing the "why" of your changes, your commit might be too small.
+
 ### Commit messages tell intent
 
 Explaining what you did is nice, explaining why you did it is even nicer. It’s even more useful if you explain why you did it over other options.
