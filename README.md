@@ -134,6 +134,14 @@ A few guidelines:
 * Rules, selectors are placed in alphabetical order as much as possible.
 * Place used mixins at the top to make it possible to overwrite their values.
 
+## Common scripts
+
+We strive to include a set of scripts in all repositories that gives a uniform way of performing common development tasks across projects, frameworks, and languages.
+
+* `script/deploy`: Deploys the application to production (usually).
+* `script/run`: Launches the application for local development.
+* `script/update`: Ensures application dependencies are installed and upgraded, and that the application is otherwise in pristine order for development.
+
 ## Sales process
 
 New customers are tracked on our Sales board in Trello.
