@@ -41,13 +41,13 @@ Every so often we'll use an investment day to build something, anything. The rul
 
 ## Workflow
 
-### master is always deployable
+### main is always deployable
 
-The master branch is our main branch. It is always working and deployable so we can confidently base future work on it.
+The main branch is our main branch. It is always working and deployable so we can confidently base future work on it.
 
 ### Branches
 
-Don’t commit directly to master. Create a branch for whatever you’re doing, make your changes and commits on that branch.
+Don’t commit directly to main. Create a branch for whatever you’re doing, make your changes and commits on that branch.
 
 ### Run all tests on the branch
 
@@ -57,7 +57,7 @@ When making changes make sure you run all the tests in the test suite, not just 
 
 The full test suite should be run on CI whenever changes are pushed to remote branches.
 
-### Perform code reviews before merging to master
+### Perform code reviews before merging to main
 
 When your changes are ready to be reviewed, create a pull request for the branch. When your pull request is complete ask for reviews from the other members of your team by using GitHubs "Request review" feature or GitLabs "Assign approver".
 
@@ -87,28 +87,28 @@ See [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 
 Grab the most important, ready story from the project management tool (GitHub, Waffle, whatever your project uses). Assign it to yourself and…
 
-    $ git checkout master
+    $ git checkout main
     $ git pull
     $ git checkout --branch ISSUE_NUMBER-ISSUE_DESCRIPTION
 
 … make your changes and commit each change in small, atomic commits. When done …
 
     $ git pull
-    $ git rebase —interactive master
+    $ git rebase —interactive main
     $ git push --set-upstream origin
 
 Create a pull request on GitHub.
 
 ### Example: Fixing a bug
 
-    $ git checkout master
+    $ git checkout main
     $ git pull
     $ git checkout --branch ISSUE_NUMBER-ISSUE_DESCRIPTION
 
 ... make your changes and commit each change in small, atomic commits. When done ...
 
     $ git pull
-    $ git rebase master
+    $ git rebase main
     $ git push --set-upstream origin
 
 Create a pull request on GitHub.
