@@ -113,6 +113,10 @@ Create a pull request on GitHub.
 
 Create a pull request on GitHub.
 
+### Changes are pushed at the end of the day
+
+All work and changes are pushed to a remote branch before leaving work every day. This way another developer can take over with minimal loss if you aren't at work the next day.
+
 ## Development and languages
 
 ### Code styles
