@@ -160,3 +160,9 @@ New customers are tracked on our Sales board in Trello.
 ## Yearly charitable donation
 
 At the beginning of each year, when the results from the year prior are done, we donate 10% of the yearly result to a given charity. The charity is chosen each year by all of us based on suggestions and votes from all employees.
+
+## Vacations
+
+We believe in a healthy work/life balance and expect employees to take days off. We provide 5 weeks of paid time off every year.
+
+Upcoming vacations should be registered in Salary at least 3 weeks in advance.
